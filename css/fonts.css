@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Europe";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fontss/font.eot") format('embedded-opentype'),
+	url('../fontss/font.woff') format('woff')
+	url("../fontss/font.ttf") format('truetype');
+}
